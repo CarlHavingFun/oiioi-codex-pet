@@ -1,11 +1,19 @@
 # oiioi Codex Pet
 
+[Download v1.0.0](https://github.com/CarlHavingFun/oiioi-codex-pet/releases/tag/v1.0.0)
+
 Custom Codex pet based on the OIIA/OIIAI spinning cat meme.
 
 The final behavior keeps the meme timing:
 
 - Idle/static states use the standing gray tabby cat with visible short feet.
 - Running/spinning states use the round body version where the feet are hidden while the cat spins.
+
+## Download
+
+Download `oiioi-codex-pet.zip` from the latest release:
+
+https://github.com/CarlHavingFun/oiioi-codex-pet/releases/latest
 
 ## Files
 
@@ -38,3 +46,21 @@ Spin:
 Full atlas:
 
 ![Contact sheet](qa/contact-sheet.png)
+
+## Community Listing
+
+Suggested title:
+
+```text
+oiioi - OIIA/OIIAI spinning cat Codex pet
+```
+
+Suggested description:
+
+```text
+Fan-made Codex pet based on the OIIA/OIIAI spinning cat meme. Idle states keep the tiny feet visible; spinning states use the round body with the feet hidden, so the meme timing reads correctly in motion.
+```
+
+## Custom Work
+
+Want a meme pet, brand mascot, or character variant built in the same Codex pet format? Open an issue on this repo with the reference image, desired motion, and usage notes.
