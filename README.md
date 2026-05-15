@@ -63,4 +63,14 @@ Fan-made Codex pet based on the OIIA/OIIAI spinning cat meme. Idle states keep t
 
 ## Custom Work
 
-Want a meme pet, brand mascot, or character variant built in the same Codex pet format? Open an issue on this repo with the reference image, desired motion, and usage notes.
+Want a meme pet, brand mascot, or character variant built in the same Codex pet format? Open an issue on this repo with the reference image, desired motion, and usage notes, or email:
+
+```text
+184219650@qq.com
+```
+
+## Support
+
+If this pet saved you time or you want to support more Codex pet experiments, scan the Alipay QR code below.
+
+![Alipay donation QR](assets/alipay-donation.jpg)

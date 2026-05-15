@@ -25,3 +25,7 @@ Is this for personal use, a public project, a team mascot, or a commercial brand
 ## Budget and deadline
 
 Optional, but useful if this is a commissioned request.
+
+## Contact
+
+For private or commercial requests, you can also email 184219650@qq.com.
