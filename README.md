@@ -1,6 +1,6 @@
-# oiioi Codex Pet
+# oiiai Codex Pet
 
-[Download v1.0.0](https://github.com/CarlHavingFun/oiioi-codex-pet/releases/tag/v1.0.0)
+[Download v1.0.1](https://github.com/CarlHavingFun/oiiai-codex-pet/releases/tag/v1.0.1)
 
 Custom Codex pet based on the OIIA/OIIAI spinning cat meme.
 
@@ -11,9 +11,9 @@ The final behavior keeps the meme timing:
 
 ## Download
 
-Download `oiioi-codex-pet.zip` from the latest release:
+Download `oiiai-codex-pet.zip` from the latest release:
 
-https://github.com/CarlHavingFun/oiioi-codex-pet/releases/latest
+https://github.com/CarlHavingFun/oiiai-codex-pet/releases/latest
 
 ## Files
 
@@ -29,8 +29,8 @@ https://github.com/CarlHavingFun/oiioi-codex-pet/releases/latest
 Copy the contents of `pet/` into your Codex pets directory:
 
 ```bash
-mkdir -p ~/.codex/pets/oiioi
-cp pet/pet.json pet/spritesheet.webp ~/.codex/pets/oiioi/
+mkdir -p ~/.codex/pets/oiiai
+cp pet/pet.json pet/spritesheet.webp ~/.codex/pets/oiiai/
 ```
 
 ## Preview
@@ -52,7 +52,7 @@ Full atlas:
 Suggested title:
 
 ```text
-oiioi - OIIA/OIIAI spinning cat Codex pet
+oiiai - OIIA/OIIAI spinning cat Codex pet
 ```
 
 Suggested description:
